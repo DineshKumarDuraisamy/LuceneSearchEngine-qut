@@ -1,0 +1,43 @@
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 4\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 4\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 4\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 4\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\Lucene.Net.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 4\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 4\Working\LuceneSearchApplication\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 4\Working\LuceneSearchApplication\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Working\LuceneSearchApplication\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Working\LuceneSearchApplication\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\Lucene.Net.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Working\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Solutions\LuceneSearchApplication\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Solutions\LuceneSearchApplication\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 5\Solutions\LuceneSearchApplication\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.pdb
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 4\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe.config
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 4\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.exe
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 4\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.pdb
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 4\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 4\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.pdb
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 4\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\Lucene.Net.pdb
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 4\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.csprojResolveAssemblyReference.cache
+D:\Queensland Uni of Tech\2019 sem 2\Information Retrieval\project\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe.config
+D:\Queensland Uni of Tech\2019 sem 2\Information Retrieval\project\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.exe
+D:\Queensland Uni of Tech\2019 sem 2\Information Retrieval\project\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.pdb
+D:\Queensland Uni of Tech\2019 sem 2\Information Retrieval\project\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.csprojResolveAssemblyReference.cache
+D:\Queensland Uni of Tech\2019 sem 2\Information Retrieval\project\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe
+D:\Queensland Uni of Tech\2019 sem 2\Information Retrieval\project\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.pdb
+D:\Queensland Uni of Tech\2019 sem 2\Information Retrieval\project\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\Newtonsoft.Json.dll
+D:\Queensland Uni of Tech\2019 sem 2\Information Retrieval\project\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\Lucene.Net.pdb
+D:\Queensland Uni of Tech\2019 sem 2\Information Retrieval\project\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\Newtonsoft.Json.xml
+H:\Dinesh QUT\Information Retrieval\Search Engine\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe.config
+H:\Dinesh QUT\Information Retrieval\Search Engine\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.exe
+H:\Dinesh QUT\Information Retrieval\Search Engine\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.pdb
+H:\Dinesh QUT\Information Retrieval\Search Engine\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.exe
+H:\Dinesh QUT\Information Retrieval\Search Engine\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\LuceneSearchApplication.pdb
+H:\Dinesh QUT\Information Retrieval\Search Engine\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\Newtonsoft.Json.dll
+H:\Dinesh QUT\Information Retrieval\Search Engine\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\Lucene.Net.pdb
+H:\Dinesh QUT\Information Retrieval\Search Engine\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\bin\Debug\Newtonsoft.Json.xml
+H:\Dinesh QUT\Information Retrieval\Search Engine\LuceneSearchApplicationSolution\LuceneSearchApplicationSolution\LuceneSearchApplication\obj\Debug\LuceneSearchApplication.csprojResolveAssemblyReference.cache
